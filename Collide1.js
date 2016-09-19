@@ -7,9 +7,6 @@ var fontsize = "15px";
   particle1 = new Particle;
   particle2 = new Particle2;
 
-  var rodolfo = new Image();
-  rodolfo.source='http://www.pngall.com/wp-content/uploads/2016/03/Cat-PNG-6.png';
-
   document.body.appendChild(canvas);
 
   c.fillStyle= "black";
